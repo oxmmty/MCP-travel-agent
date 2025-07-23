@@ -1,0 +1,231 @@
+chunk-RPCDYKBN.js?v=fe3fd9c3:21551 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+MapboxMap.tsx:304 Mapbox map loaded successfully
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 0
+MapboxMap.tsx:858 Markers updated. Total markers: 0 onMarkerClick: true
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+MapboxMap.tsx:304 Mapbox map loaded successfully
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 0
+MapboxMap.tsx:858 Markers updated. Total markers: 0 onMarkerClick: true
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+ChatInterface.tsx:370 [ChatInterface] Loading destination data for: Cochem
+ChatInterface.tsx:64 [ChatInterface] Loading destination data for: Cochem
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 0
+MapboxMap.tsx:858 Markers updated. Total markers: 0 onMarkerClick: true
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 0
+MapboxMap.tsx:858 Markers updated. Total markers: 0 onMarkerClick: true
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:242 🔍 No match found for: Cochem
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:242 🔍 No match found for: Reichsburg Cochem
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:242 🔍 No match found for: Bundesbank-Bunker Cochem
+MessageContent.tsx:248 🔍 Final extracted items: Array(0)
+MessageContent.tsx:255 🔍 No items to extract or no callback available
+ChatInterface.tsx:93 [ChatInterface] Loaded destination data: Object
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:248 🔍 Final extracted items: Array(3)
+MessageContent.tsx:252 🔍 Calling onChatItemsExtracted with: Array(3)
+SplitScreenLayout.tsx:383 🔍 SplitScreenLayout: Received chat items: Array(3)
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:479 🔍 Current chat markers: 0
+SplitScreenLayout.tsx:489 📍 Auto-adding chat items to map: Array(3)
+SplitScreenLayout.tsx:490 📍 Total markers after addition: 3
+chunk-RPCDYKBN.js?v=fe3fd9c3:521 Warning: Cannot update a component (`SplitScreenLayout`) while rendering a different component (`MessageContent`). To locate the bad setState() call inside `MessageContent`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
+    at MessageContent (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/MessageContent.tsx:170:42)
+    at div
+    at div
+    at div
+    at div
+    at div
+    at MotionComponent (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=fe3fd9c3:6536:40)
+    at div
+    at div
+    at ChatInterface (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/ChatInterface.tsx:28:41)
+    at div
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=fe3fd9c3:42:13
+    at Presence (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-DI3MHBAI.js?v=fe3fd9c3:24:11)
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=fe3fd9c3:177:13
+    at _c5 (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/ui/tabs.tsx:72:12)
+    at div
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=fe3fd9c3:42:13
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=fe3fd9c3:38:15)
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=fe3fd9c3:55:7
+    at div
+    at div
+    at MainTabs (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/MainTabs.tsx:29:3)
+    at div
+    at div
+    at SplitScreenLayout (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/SplitScreenLayout.tsx:28:3)
+    at div
+    at div
+    at div
+    at Home (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/pages/Home.tsx:34:23)
+    at ProtectedRoute (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/protected-route.tsx:22:34)
+    at Route (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=fe3fd9c3:323:16)
+    at Switch (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=fe3fd9c3:379:17)
+    at Router
+    at FavoritesProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/hooks/useFavorites.tsx:24:37)
+    at AuthProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/hooks/useAuth.tsx:125:32)
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=fe3fd9c3:38:15)
+    at TooltipProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=fe3fd9c3:65:5)
+    at I18nextProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-i18next.js?v=fe3fd9c3:781:3)
+    at QueryClientProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=fe3fd9c3:2805:3)
+    at ErrorBoundary (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/ErrorBoundary.tsx:10:5)
+    at App
+printWarning @ chunk-RPCDYKBN.js?v=fe3fd9c3:521Fehler nachvollziehen
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 0
+MapboxMap.tsx:858 Markers updated. Total markers: 0 onMarkerClick: true
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:248 🔍 Final extracted items: Array(3)
+MessageContent.tsx:252 🔍 Calling onChatItemsExtracted with: Array(3)
+SplitScreenLayout.tsx:383 🔍 SplitScreenLayout: Received chat items: Array(3)
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 3
+3MapboxMap.tsx:140 ⚪ No Google Places icon for hotel, using emoji: 🏨
+MapboxMap.tsx:858 Markers updated. Total markers: 3 onMarkerClick: true
+SplitScreenLayout.tsx:479 🔍 Current chat markers: 3
+SplitScreenLayout.tsx:494 📍 No new markers to add (duplicates or empty)
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+MapboxMap.tsx:304 Mapbox map loaded successfully
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENTFehler nachvollziehen
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:248 🔍 Final extracted items: Array(3)
+MessageContent.tsx:252 🔍 Calling onChatItemsExtracted with: Array(3)
+SplitScreenLayout.tsx:383 🔍 SplitScreenLayout: Received chat items: Array(3)
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+SplitScreenLayout.tsx:388 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+SplitScreenLayout.tsx:403 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+SplitScreenLayout.tsx:473 🔍 Created chat marker with full data: Object
+MapboxMap.tsx:547 🗺️ MAP UPDATE: Updating markers. New count: 71
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎢
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎭
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎢
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🦁
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🦁
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎭
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎯
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+4MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎭
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏰
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎭
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏰
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🎢
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏰
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏰
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🌳
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+2MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: 🏛️
+MapboxMap.tsx:140 ⚪ No Google Places icon for attraction, using emoji: ⛪
+3MapboxMap.tsx:140 ⚪ No Google Places icon for hotel, using emoji: 🏨
+MapboxMap.tsx:858 Markers updated. Total markers: 71 onMarkerClick: true
+SplitScreenLayout.tsx:479 🔍 Current chat markers: 3
+SplitScreenLayout.tsx:494 📍 No new markers to add (duplicates or empty)
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:248 🔍 Final extracted items: Array(3)
+MessageContent.tsx:255 🔍 No items to extract or no callback available
+MessageContent.tsx:209 🔍 Extracting chat items from text: **Cochem**, nestled in the picturesque Moselle Valley, is a charming German town known for its stunn...
+MessageContent.tsx:214 🔍 Found bold matches: Array(3)
+MessageContent.tsx:219 🔍 Processing bold text: Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Reichsburg Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:219 🔍 Processing bold text: Bundesbank-Bunker Cochem
+MessageContent.tsx:223 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+MessageContent.tsx:248 🔍 Final extracted items: Array(3)
+MessageContent.tsx:255 🔍 No items to extract or no callback available

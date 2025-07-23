@@ -1,0 +1,35 @@
+ Registering Official LiteAPI routes...
+✅ Official LiteAPI routes registered
+🔧 Registering LiteAPI Sandbox Test routes...
+✅ LiteAPI Sandbox Test routes registered
+✅ Cache management routes registered
+1:01:18 PM [express] serving on port 5000
+Browserslist: browsers data (caniuse-lite) is 9 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+1:01:31 PM [express] GET /api/auth/me 304 in 443ms :: {"user":{"id":"b6e79855-ffed-4cc5-b147-a308aa3…
+1:01:31 PM [express] GET /api/favorites 304 in 404ms :: [{"id":24,"userId":"b6e79855-ffed-4cc5-b147-…
+1:01:32 PM [express] GET /api/chats 304 in 727ms :: [{"id":209,"userId":"b6e79855-ffed-4cc5-b147-a30…
+1:01:54 PM [express] GET /api/auth/me 304 in 363ms :: {"user":{"id":"4ac94ba8-b0e4-459a-a74e-2645bb8…
+1:01:55 PM [express] GET /api/favorites 304 in 232ms :: []
+1:01:55 PM [express] GET /api/chats 304 in 422ms :: [{"id":212,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:03:01 PM [express] POST /api/chats 200 in 444ms :: {"id":213,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:03:02 PM [express] GET /api/chats/213/mood 200 in 291ms
+1:03:02 PM [express] GET /api/chats 200 in 486ms :: [{"id":213,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:03:02 PM [express] GET /api/chats/213/messages 200 in 533ms :: [{"id":112,"chatId":213,"role":"use…
+[Cache] Database hit for destination: Hamburg
+[Cache Hit] Found cached destination: Hamburg
+[Routes] Found destination in message: Hamburg
+1:03:11 PM [express] POST /api/chats/213/messages 200 in 9488ms :: {"userMessage":{"id":112,"chatId"…
+[LoadData] Loading full data for: Hamburg
+1:03:11 PM [express] GET /api/chats 200 in 243ms :: [{"id":213,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:03:11 PM [express] GET /api/chats/213/messages 200 in 306ms :: [{"id":112,"chatId":213,"role":"use…
+[LoadData] Using cached data: 15 hotels, 25 attractions
+1:03:12 PM [express] POST /api/destinations/load-data 200 in 400ms :: {"destination":{"id":19,"userI…
+[Cache] Database hit for attractions near 53.548828199999996,9.987170299999999: 79 results
+[Cache Hit] Found 79 cached attractions
+1:03:20 PM [express] GET /api/destinations/search-attractions 200 in 866ms :: [{"icon":"https://maps…
+[Google Places] Fetching destination: Miniatur Wunderland
+[API Tracking] google_places.search_text: 1 requests, ~$0.0000
+[Cache] Saved destination to cache: Miniatur Wunderland
+1:03:24 PM [express] GET /api/locations/Miniatur%20Wunderland/details 200 in 1267ms :: {"name":"Mini…

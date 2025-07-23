@@ -1,0 +1,14 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E85A4F;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#C4527A;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#8B4AA3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5B7BD6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <text x="10" y="42" font-family="'Inter', sans-serif" font-size="36" font-weight="700" letter-spacing="-0.02em" fill="url(#gradient)">
+    takemeto
+  </text>
+</svg>

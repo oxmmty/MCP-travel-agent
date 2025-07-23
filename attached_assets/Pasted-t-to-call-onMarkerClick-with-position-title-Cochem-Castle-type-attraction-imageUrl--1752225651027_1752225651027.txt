@@ -1,0 +1,24 @@
+t to call onMarkerClick with: {position: {…}, title: 'Cochem Castle', type: 'attraction', imageUrl: 'https://places.googleapis.com/v1/places/ChIJo1qsvn…Rkh4EB9BrSM3MXDIfk&maxHeightPx=400&maxWidthPx=400', rating: 4.6, …}
+MapboxMap.tsx:638 🔥 onMarkerClick function exists: false
+MapboxMap.tsx:639 🔥 onMarkerClick type: undefined
+MapboxMap.tsx:647 🔥 onMarkerClick is not available: undefined
+(anonym) @ MapboxMap.tsx:647Fehler nachvollziehen
+MapboxMap.tsx:625 🔥 PIN CLICKED! Cochem Castle attraction
+MapboxMap.tsx:637 🔥 About to call onMarkerClick with: {position: {…}, title: 'Cochem Castle', type: 'attraction', imageUrl: 'https://places.googleapis.com/v1/places/ChIJo1qsvn…Rkh4EB9BrSM3MXDIfk&maxHeightPx=400&maxWidthPx=400', rating: 4.6, …}
+MapboxMap.tsx:638 🔥 onMarkerClick function exists: false
+MapboxMap.tsx:639 🔥 onMarkerClick type: undefined
+MapboxMap.tsx:647 🔥 onMarkerClick is not available: undefined
+(anonym) @ MapboxMap.tsx:647Fehler nachvollziehen
+MapboxMap.tsx:625 🔥 PIN CLICKED! Cochem Castle attraction
+MapboxMap.tsx:637 🔥 About to call onMarkerClick with: {position: {…}, title: 'Cochem Castle', type: 'attraction', imageUrl: 'https://places.googleapis.com/v1/places/ChIJo1qsvn…Rkh4EB9BrSM3MXDIfk&maxHeightPx=400&maxWidthPx=400', rating: 4.6, …}
+MapboxMap.tsx:638 🔥 onMarkerClick function exists: false
+MapboxMap.tsx:639 🔥 onMarkerClick type: undefined
+MapboxMap.tsx:647 🔥 onMarkerClick is not available: undefined
+(anonym) @ MapboxMap.tsx:647Fehler nachvollziehen
+MapboxMap.tsx:625 🔥 PIN CLICKED! Cochem Castle attraction
+MapboxMap.tsx:637 🔥 About to call onMarkerClick with: {position: {…}, title: 'Cochem Castle', type: 'attraction', imageUrl: 'https://places.googleapis.com/v1/places/ChIJo1qsvn…Rkh4EB9BrSM3MXDIfk&maxHeightPx=400&maxWidthPx=400', rating: 4.6, …}
+MapboxMap.tsx:638 🔥 onMarkerClick function exists: false
+MapboxMap.tsx:639 🔥 onMarkerClick type: undefined
+MapboxMap.tsx:647 🔥 onMarkerClick is not available: undefined
+(anonym) @ MapboxMap.tsx:647Fehler nachvollziehen
+5b9c5d74b-3653-4c7d-a…spock.replit.dev/:1 Uncaught (in promise) Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received

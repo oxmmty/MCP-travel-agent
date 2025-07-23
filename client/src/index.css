@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in-out {
+  0%, 100% {
+    opacity: 0;
+  }
+  20%, 80% {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out;
+}
+
+.animate-fade-in-out {
+  animation: fade-in-out 1.5s ease-in-out;
+}
+
+:root {
+  /* takemeto Brand Colors */
+  --coral-primary: hsl(8, 85%, 62%);      /* #E85A4F - Coral */
+  --purple-mid: hsl(288, 65%, 55%);       /* #A855A3 - Purple */
+  --blue-end: hsl(213, 65%, 58%);         /* #3B82F6 - Blue */
+  
+  /* Gradient Definitions */
+  --primary-gradient-start: hsl(8, 85%, 62%);
+  --primary-gradient-end: hsl(213, 65%, 58%);
+  --accent-gradient-start: hsl(8, 85%, 62%);
+  --accent-gradient-end: hsl(288, 65%, 55%);
+  
+  /* System Colors */
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(222, 84%, 4.9%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(222, 84%, 4.9%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(222, 84%, 4.9%);
+  --primary: hsl(8, 85%, 62%);
+  --primary-foreground: hsl(210, 40%, 98%);
+  --secondary: hsl(210, 40%, 98%);
+  --secondary-foreground: hsl(222, 84%, 4.9%);
+  --muted: hsl(210, 40%, 98%);
+  --muted-foreground: hsl(215, 13.8%, 34.1%);
+  --accent: hsl(210, 40%, 98%);
+  --accent-foreground: hsl(222, 84%, 4.9%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(210, 40%, 98%);
+  --border: hsl(214, 32%, 91.2%);
+  --input: hsl(214, 32%, 91.2%);
+  --ring: hsl(8, 85%, 62%);
+  --radius: 0.5rem;
+  
+  /* Custom subtle grays for top navigation */
+  --gray-150: hsl(220, 13%, 92%);
+  
+  /* Sidebar colors */
+  --sidebar-background: hsl(0, 0%, 100%);
+  --sidebar-foreground: hsl(222.2, 84%, 4.9%);
+  --sidebar-primary: hsl(207, 90%, 54%);
+  --sidebar-primary-foreground: hsl(211, 100%, 99%);
+  --sidebar-accent: hsl(210, 40%, 96%);
+  --sidebar-accent-foreground: hsl(222.2, 84%, 4.9%);
+  --sidebar-border: hsl(214.3, 31.8%, 91.4%);
+  --sidebar-ring: hsl(207, 90%, 54%);
+  
+  /* Chart colors */
+  --chart-1: hsl(12, 76%, 61%);
+  --chart-2: hsl(173, 58%, 39%);
+  --chart-3: hsl(197, 37%, 24%);
+  --chart-4: hsl(43, 74%, 66%);
+  --chart-5: hsl(27, 87%, 67%);
+}
+
+/* Mapbox hover popup styles */
+.mapboxgl-popup.hover-popup {
+  pointer-events: none;
+  z-index: 1000;
+}
+
+.mapboxgl-popup.hover-popup .mapboxgl-popup-content {
+  background-color: white;
+  color: #1f2937;
+  border-radius: 8px;
+  padding: 12px;
+  max-width: 280px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  border: 1px solid #e5e7eb;
+  animation: fadeInPopup 0.2s ease-out;
+}
+
+.mapboxgl-popup.hover-popup .mapboxgl-popup-tip {
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+@keyframes fadeInPopup {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.dark {
+  --background: hsl(222, 84%, 4.9%);
+  --foreground: hsl(210, 40%, 98%);
+  --card: hsl(222, 84%, 4.9%);
+  --card-foreground: hsl(210, 40%, 98%);
+  --popover: hsl(222, 84%, 4.9%);
+  --popover-foreground: hsl(210, 40%, 98%);
+  --primary: hsl(8, 85%, 62%);
+  --primary-foreground: hsl(210, 40%, 98%);
+  --secondary: hsl(217, 32%, 17.5%);
+  --secondary-foreground: hsl(210, 40%, 98%);
+  --muted: hsl(217, 32%, 17.5%);
+  --muted-foreground: hsl(215, 20%, 65.1%);
+  --accent: hsl(217, 32%, 17.5%);
+  --accent-foreground: hsl(210, 40%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(210, 40%, 98%);
+  --border: hsl(217, 32%, 17.5%);
+  --input: hsl(217, 32%, 17.5%);
+  --ring: hsl(8, 85%, 62%);
+  
+  /* Sidebar colors for dark mode */
+  --sidebar-background: hsl(222.2, 84%, 4.9%);
+  --sidebar-foreground: hsl(210, 40%, 98%);
+  --sidebar-primary: hsl(207, 90%, 54%);
+  --sidebar-primary-foreground: hsl(211, 100%, 99%);
+  --sidebar-accent: hsl(217.2, 32.6%, 17.5%);
+  --sidebar-accent-foreground: hsl(210, 40%, 98%);
+  --sidebar-border: hsl(217.2, 32.6%, 17.5%);
+  --sidebar-ring: hsl(207, 90%, 54%);
+  
+  /* Chart colors for dark mode */
+  --chart-1: hsl(220, 70%, 50%);
+  --chart-2: hsl(160, 60%, 45%);
+  --chart-3: hsl(30, 80%, 55%);
+  --chart-4: hsl(280, 65%, 60%);
+  --chart-5: hsl(340, 75%, 55%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+@layer components {
+  /* Gradient Text - takemeto Brand */
+  .text-gradient {
+    background: linear-gradient(90deg, var(--coral-primary), var(--purple-mid), var(--blue-end));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Noto Serif', Georgia, serif;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+  
+  /* Background Gradients - takemeto Brand */
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, var(--primary-gradient-start), var(--primary-gradient-end));
+  }
+  
+  .bg-gradient-accent {
+    background: linear-gradient(135deg, var(--accent-gradient-start), var(--accent-gradient-end));
+  }
+  
+  /* Glass Effect */
+  .glass-effect {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  /* Primary Button - Simple Gray Style */
+  .btn-primary {
+    @apply bg-gray-200 hover:bg-gray-300 text-gray-800 px-6 py-2 text-sm font-medium transition-colors duration-200 rounded-full;
+  }
+  
+  /* Secondary Button - Simple Gray Style */
+  .btn-secondary {
+    @apply bg-gray-100 hover:bg-gray-200 text-gray-700 px-6 py-2 text-sm font-medium transition-colors duration-200 rounded-full;
+  }
+}
+
+/* Custom animations for smooth interactions */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease-in-out;
+}
+
+/* Mapbox container fixes */
+.mapbox-container {
+  position: absolute !important;
+  width: 100% !important;
+  height: 100% !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* Ensure no white overlays on different screen sizes */
+@media (max-width: 768px) {
+  .mapbox-container {
+    min-height: 400px !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .mapbox-container {
+    min-height: 500px !important;
+  }
+}
+
+@media (min-width: 1025px) {
+  .mapbox-container {
+    min-height: 600px !important;
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}
+
+/* Loading states */
+.loading-skeleton {
+  background: linear-gradient(90deg, hsl(var(--muted)) 25%, hsl(var(--muted) / 0.5) 50%, hsl(var(--muted)) 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Focus styles for accessibility */
+.focus-visible:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+/* Transition improvements */
+.transition-smooth {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}

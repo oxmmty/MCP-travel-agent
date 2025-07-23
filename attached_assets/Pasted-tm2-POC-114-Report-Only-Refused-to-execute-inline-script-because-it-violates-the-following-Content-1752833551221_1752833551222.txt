@@ -1,0 +1,1324 @@
+tm2-POC:114 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-l4tVawqop8TipubbuR4Ztda3Nwlk7khDZUhWkWk9ZcM='), or a nonce ('nonce-...') is required to enable inline execution.
+
+tm2-POC:144 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-Q2BC+6wvEMMGAG5ptiy0mdlUVz5ymLU+2wnaD11rhyc='), or a nonce ('nonce-...') is required to enable inline execution.
+
+tm2-POC:147 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-XYvVliZ7kJ9JIDhACMzGUvidf8E8T+euknSiwFmyDfg='), or a nonce ('nonce-...') is required to enable inline execution.
+
+tm2-POC:147 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-WuQ3tttJsJ+YpVYBgoqxhhVzmQxiwpjXIC/9n3Re6bY='), or a nonce ('nonce-...') is required to enable inline execution.
+
+tm2-POC:147 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-4iQSIcqAdqeWQmiiTbi4Ll67bKJI8NQHY3hIviDM7nM='), or a nonce ('nonce-...') is required to enable inline execution.
+
+tm2-POC:147 [Report Only] Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'none'". Either the 'unsafe-inline' keyword, a hash ('sha256-07l5B4sWF6cor6yDQ+CQBYw+BXfYaB+C6wxFZmj0wqo='), or a nonce ('nonce-...') is required to enable inline execution.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+[Report Only] Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+_app-a0d8ae21dd26e9ff.js:26 [Report Only] Refused to create a worker from 'https://replit.com/public/stallwart.build.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'worker-src' was not explicitly set, so 'script-src' is used as a fallback.
+
+102-d485f3d95d5b1c82.js:1 [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+
+102-d485f3d95d5b1c82.js:1 [Report Only] Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: "script-src 'none'".
+
+_app-a0d8ae21dd26e9ff.js:40  POST https://o1151714.ingest.sentry.io/api/6318792/envelope/?sentry_key=8aa91189a4274b5a8c9b7b01d46ea360&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.112.0 net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ _app-a0d8ae21dd26e9ff.js:40
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+add @ _app-a0d8ae21dd26e9ff.js:38
+i @ _app-a0d8ae21dd26e9ff.js:38
+_sendEnvelope @ _app-a0d8ae21dd26e9ff.js:38
+sendSession @ _app-a0d8ae21dd26e9ff.js:36
+captureSession @ _app-a0d8ae21dd26e9ff.js:36
+E @ _app-a0d8ae21dd26e9ff.js:26
+S @ _app-a0d8ae21dd26e9ff.js:26
+dsn @ _app-a0d8ae21dd26e9ff.js:40
+(anonym) @ _app-a0d8ae21dd26e9ff.js:40
+(anonym) @ main-ac00855c62c409ad.js:1
+b @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+n @ main-ac00855c62c409ad.js:1
+u @ main-ac00855c62c409ad.js:1
+Promise.then
+n @ main-ac00855c62c409ad.js:1
+u @ main-ac00855c62c409ad.js:1
+Promise.then
+n @ main-ac00855c62c409ad.js:1
+u @ main-ac00855c62c409ad.js:1
+Promise.then
+n @ main-ac00855c62c409ad.js:1
+u @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+eO @ main-ac00855c62c409ad.js:1
+eE @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+Promise.then
+56387 @ main-ac00855c62c409ad.js:1
+d @ webpack-07ca22250de42a7f.js:1
+t @ main-ac00855c62c409ad.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+d.O @ webpack-07ca22250de42a7f.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+a @ webpack-07ca22250de42a7f.js:1
+(anonym) @ main-ac00855c62c409ad.js:1
+_app-a0d8ae21dd26e9ff.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+init-script.ts:45  GET https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq net::ERR_BLOCKED_BY_CLIENT
+o.load @ init-script.ts:45
+(anonym) @ init-script.ts:48
+(anonym) @ init-script.ts:4
+initialize @ index.ts:249
+h @ plugin.js:19
+(anonym) @ index.ts:154
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:140
+(anonym) @ event-queue.js:50
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:30
+(anonym) @ index.ts:410
+(anonym) @ index.ts:408
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:404
+(anonym) @ index.ts:200
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+ne @ index.ts:116
+(anonym) @ index.ts:304
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+re @ index.ts:239
+(anonym) @ index.ts:338
+Promise.then
+(anonym) @ index.ts:339
+t @ index.ts:307
+n @ index.ts:337
+(anonym) @ index.ts:389
+(anonym) @ index.ts:393
+(anonym) @ standalone-analytics.ts:53
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+se @ standalone-analytics.ts:49
+(anonym) @ standalone.ts:69
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+de @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+_app-a0d8ae21dd26e9ff.js:38  GET https://www.google-analytics.com/analytics.js net::ERR_UNSAFE_REDIRECT
+(anonym) @ index.js:58
+(anonym) @ browser.js:153
+d @ browser.js:123
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+c @ browser.js:41
+(anonym) @ browser.js:143
+(anonym) @ index.js:55
+(anonym) @ protos.js:261
+(anonym) @ index.js:201
+(anonym) @ protos.js:322
+(anonym) @ index.ts:171
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ ajs-destination.bundle.8e6b895db75187c55313.js:1
+(anonym) @ event-queue.js:50
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:30
+(anonym) @ index.ts:410
+(anonym) @ index.ts:408
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:404
+(anonym) @ index.ts:200
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+ne @ index.ts:116
+(anonym) @ index.ts:304
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+re @ index.ts:239
+(anonym) @ index.ts:338
+Promise.then
+(anonym) @ index.ts:339
+t @ index.ts:307
+n @ index.ts:337
+(anonym) @ index.ts:389
+(anonym) @ index.ts:393
+(anonym) @ standalone-analytics.ts:53
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+se @ standalone-analytics.ts:49
+(anonym) @ standalone.ts:69
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+de @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+_app-a0d8ae21dd26e9ff.js:38  GET https://www.googletagmanager.com/gtag/js?id=AW-11411994397 net::ERR_UNSAFE_REDIRECT
+(anonym) @ index.js:58
+(anonym) @ browser.js:153
+d @ browser.js:123
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+c @ browser.js:41
+(anonym) @ browser.js:143
+(anonym) @ index.js:55
+(anonym) @ protos.js:261
+(anonym) @ index.js:59
+(anonym) @ protos.js:322
+(anonym) @ index.ts:171
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ ajs-destination.bundle.8e6b895db75187c55313.js:1
+(anonym) @ event-queue.js:50
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:30
+(anonym) @ index.ts:410
+(anonym) @ index.ts:408
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:404
+(anonym) @ index.ts:200
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+ne @ index.ts:116
+(anonym) @ index.ts:304
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+re @ index.ts:239
+(anonym) @ index.ts:338
+Promise.then
+(anonym) @ index.ts:339
+t @ index.ts:307
+n @ index.ts:337
+(anonym) @ index.ts:389
+(anonym) @ index.ts:393
+(anonym) @ standalone-analytics.ts:53
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+se @ standalone-analytics.ts:49
+(anonym) @ standalone.ts:69
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+de @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+_app-a0d8ae21dd26e9ff.js:38 [LaunchDarkly] LaunchDarkly client initialized
+shared-89f46740c4fdc6c96c254be28c012eed.js:1  POST https://r.stripe.com/b net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc6c96c254be28c012eed.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-89f46740c4fdc6c96c254be28c012eed.js:1:217756
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.catch
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+_app-a0d8ae21dd26e9ff.js:40 [Report Only] Refused to create a worker from 'https://replit.com/service-worker.js' because it violates the following Content Security Policy directive: "script-src 'none'". Note that 'worker-src' was not explicitly set, so 'script-src' is used as a fallback.
+
+_app-a0d8ae21dd26e9ff.js:38  POST https://sp.replit.com/v1/i 400 (Bad Request)
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+o @ sdk.min.js:1
+dispatch @ fetch-dispatcher.ts:11
+(anonym) @ index.ts:122
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+g @ index.ts:93
+(anonym) @ delivery.js:28
+(anonym) @ delivery.js:11
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ delivery.js:4
+o @ delivery.js:27
+(anonym) @ event-queue.js:325
+(anonym) @ event-queue.js:323
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ event-queue.js:321
+(anonym) @ event-queue.js:320
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:273
+(anonym) @ event-queue.js:181
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:169
+(anonym) @ event-queue.js:135
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:128
+(anonym) @ dispatch.js:25
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+p @ dispatch.js:18
+(anonym) @ index.ts:460
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:454
+(anonym) @ index.ts:294
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:279
+(anonym) @ is-thenable.ts:6
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+ht @ index.ts:272
+(anonym) @ index.ts:101
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ index.ts:100
+(anonym) @ index.ts:98
+(anonym) @ index.ts:97
+(anonym) @ index.ts:92
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+te @ index.ts:87
+(anonym) @ index.ts:314
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+re @ index.ts:239
+(anonym) @ index.ts:338
+Promise.then
+(anonym) @ index.ts:339
+t @ index.ts:307
+n @ index.ts:337
+(anonym) @ index.ts:389
+(anonym) @ index.ts:393
+(anonym) @ standalone-analytics.ts:53
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+se @ standalone-analytics.ts:49
+(anonym) @ standalone.ts:69
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+de @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+_app-a0d8ae21dd26e9ff.js:38  POST https://sp.replit.com/v1/i 400 (Bad Request)
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+o @ sdk.min.js:1
+dispatch @ fetch-dispatcher.ts:11
+(anonym) @ index.ts:122
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+g @ index.ts:93
+(anonym) @ delivery.js:28
+(anonym) @ delivery.js:11
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ delivery.js:4
+o @ delivery.js:27
+(anonym) @ event-queue.js:325
+(anonym) @ event-queue.js:323
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ event-queue.js:321
+(anonym) @ event-queue.js:320
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:273
+(anonym) @ event-queue.js:181
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:169
+(anonym) @ event-queue.js:135
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:128
+(anonym) @ dispatch.js:25
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+p @ dispatch.js:18
+(anonym) @ index.ts:460
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:454
+(anonym) @ index.ts:294
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:279
+(anonym) @ _app-a0d8ae21dd26e9ff.js:6
+(anonym) @ _app-a0d8ae21dd26e9ff.js:11
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ _app-a0d8ae21dd26e9ff.js:11
+(anonym) @ _app-a0d8ae21dd26e9ff.js:11
+O @ _app-a0d8ae21dd26e9ff.js:6
+(anonym) @ 1508-3d50c3bdd6ccff40.js:1
+oO @ framework-49a98723da8280d6.js:1
+uB @ framework-49a98723da8280d6.js:1
+u_ @ framework-49a98723da8280d6.js:1
+r6 @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uO @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+_app-a0d8ae21dd26e9ff.js:38  POST https://sp.replit.com/v1/i 400 (Bad Request)
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+o @ sdk.min.js:1
+dispatch @ fetch-dispatcher.ts:11
+(anonym) @ index.ts:122
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+g @ index.ts:93
+(anonym) @ delivery.js:28
+(anonym) @ delivery.js:11
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ delivery.js:4
+o @ delivery.js:27
+(anonym) @ event-queue.js:325
+(anonym) @ event-queue.js:323
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ event-queue.js:321
+(anonym) @ event-queue.js:320
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:273
+(anonym) @ event-queue.js:181
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:169
+(anonym) @ event-queue.js:135
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ event-queue.js:128
+(anonym) @ dispatch.js:25
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+p @ dispatch.js:18
+(anonym) @ index.ts:460
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:454
+(anonym) @ index.ts:294
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+(anonym) @ index.ts:279
+(anonym) @ is-thenable.ts:6
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+ht @ index.ts:272
+(anonym) @ index.ts:101
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ index.ts:100
+(anonym) @ index.ts:98
+(anonym) @ index.ts:97
+(anonym) @ index.ts:92
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+te @ index.ts:87
+(anonym) @ index.ts:314
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+s @ tslib.es6.js:73
+Promise.then
+a @ tslib.es6.js:76
+(anonym) @ tslib.es6.js:76
+u @ tslib.es6.js:72
+re @ index.ts:239
+(anonym) @ index.ts:338
+Promise.then
+(anonym) @ index.ts:339
+t @ index.ts:307
+n @ index.ts:337
+(anonym) @ index.ts:389
+(anonym) @ index.ts:393
+(anonym) @ standalone-analytics.ts:53
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+se @ standalone-analytics.ts:49
+(anonym) @ standalone.ts:69
+(anonym) @ tslib.es6.js:103
+(anonym) @ tslib.es6.js:108
+(anonym) @ tslib.es6.js:80
+u @ tslib.es6.js:72
+de @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+(anonym) @ sdk.min.js:1
+tm2-POC:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+framework-49a98723da8280d6.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'battery'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+framework-49a98723da8280d6.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-49a98723da8280d6.js:1
+(anonym) @ framework-49a98723da8280d6.js:1
+uD @ framework-49a98723da8280d6.js:1
+uI @ framework-49a98723da8280d6.js:1
+uM @ framework-49a98723da8280d6.js:1
+uS @ framework-49a98723da8280d6.js:1
+C @ framework-49a98723da8280d6.js:1
+z @ framework-49a98723da8280d6.js:1
+shared-89f46740c4fdc6c96c254be28c012eed.js:1  POST https://r.stripe.com/b net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc6c96c254be28c012eed.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-89f46740c4fdc6c96c254be28c012eed.js:1:217756
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.catch
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+shared-89f46740c4fdc6c96c254be28c012eed.js:1  POST https://r.stripe.com/b net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc6c96c254be28c012eed.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-89f46740c4fdc6c96c254be28c012eed.js:1:217756
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.catch
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.then
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+96957 @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+e.O @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+workspace_iframe.html:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+_app-a0d8ae21dd26e9ff.js:38  POST https://events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820 net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+promise @ _app-a0d8ae21dd26e9ff.js:6
+(anonym) @ _app-a0d8ae21dd26e9ff.js:6
+r.httpRequest @ _app-a0d8ae21dd26e9ff.js:6
+t @ _app-a0d8ae21dd26e9ff.js:6
+a.sendChunk @ _app-a0d8ae21dd26e9ff.js:6
+a.sendEvents @ _app-a0d8ae21dd26e9ff.js:6
+a.flush @ _app-a0d8ae21dd26e9ff.js:6
+e @ _app-a0d8ae21dd26e9ff.js:6
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+a.start @ _app-a0d8ae21dd26e9ff.js:6
+start @ _app-a0d8ae21dd26e9ff.js:6
+n @ _app-a0d8ae21dd26e9ff.js:38
+_app-a0d8ae21dd26e9ff.js:38  POST https://events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820 net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+promise @ _app-a0d8ae21dd26e9ff.js:6
+(anonym) @ _app-a0d8ae21dd26e9ff.js:6
+r.httpRequest @ _app-a0d8ae21dd26e9ff.js:6
+t @ _app-a0d8ae21dd26e9ff.js:6
+(anonym) @ _app-a0d8ae21dd26e9ff.js:6
+Promise.catch
+t @ _app-a0d8ae21dd26e9ff.js:6
+a.sendChunk @ _app-a0d8ae21dd26e9ff.js:6
+a.sendEvents @ _app-a0d8ae21dd26e9ff.js:6
+a.flush @ _app-a0d8ae21dd26e9ff.js:6
+e @ _app-a0d8ae21dd26e9ff.js:6
+n @ _app-a0d8ae21dd26e9ff.js:38
+setTimeout
+(anonym) @ _app-a0d8ae21dd26e9ff.js:38
+a.start @ _app-a0d8ae21dd26e9ff.js:6
+start @ _app-a0d8ae21dd26e9ff.js:6
+n @ _app-a0d8ae21dd26e9ff.js:38
+shared-89f46740c4fdc6c96c254be28c012eed.js:1  POST https://r.stripe.com/b net::ERR_BLOCKED_BY_CLIENT
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+shared-89f46740c4fdc6c96c254be28c012eed.js:1 Uncaught (in promise) FetchError: Error fetching https://r.stripe.com/b: Failed to fetch
+    at shared-89f46740c4fdc6c96c254be28c012eed.js:1:217756
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+Promise.catch
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+e @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+c @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+setTimeout
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+(anonym) @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+value @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ shared-89f46740c4fdc6c96c254be28c012eed.js:1
+log @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+value @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+(anonym) @ controller-with-preconnect-0d1ab56245210e05d8f4cc5a3468c9b1.js:1
+workspace_iframe.html?initialPath=%2F&id=%3Ar10%3A:142  GET https://replit.com/public/js/beacon.js net::ERR_BLOCKED_BY_CLIENT
+onIframeLoad @ workspace_iframe.html?initialPath=%2F&id=%3Ar10%3A:142
+Console.js:61 Critical unhandled rejection: AbortError: The user aborted a request.
+Mt.forEach.n.<computed> @ Console.js:61
+(anonym) @ main.tsx:26
+b9c5d74b-3653-4c7d-a…spock.replit.dev/:1 Uncaught (in promise) AbortError: The user aborted a request.
+Promise.then
+(anonym) @ request.js:148
+Promise.then
+t.send @ request.js:145
+window.fetch @ Network.js:220
+l2 @ mapbox-gl.js?v=fe3fd9c3:637
+(anonym) @ mapbox-gl.js?v=fe3fd9c3:694
+Fe @ mapbox-gl.js?v=fe3fd9c3:697
+t.n @ mapbox-gl.js?v=fe3fd9c3:15680
+loadURL @ mapbox-gl.js?v=fe3fd9c3:22582
+load @ mapbox-gl.js?v=fe3fd9c3:22543
+_updateStyle @ mapbox-gl.js?v=fe3fd9c3:30197
+setStyle @ mapbox-gl.js?v=fe3fd9c3:30187
+Map @ mapbox-gl.js?v=fe3fd9c3:29922
+initializeMap @ MapboxMap.tsx:257
+(anonym) @ MapboxMap.tsx:359
+commitHookEffectListMount @ chunk-RPCDYKBN.js?v=fe3fd9c3:16915
+commitPassiveMountOnFiber @ chunk-RPCDYKBN.js?v=fe3fd9c3:18156
+commitPassiveMountEffects_complete @ chunk-RPCDYKBN.js?v=fe3fd9c3:18129
+commitPassiveMountEffects_begin @ chunk-RPCDYKBN.js?v=fe3fd9c3:18119
+commitPassiveMountEffects @ chunk-RPCDYKBN.js?v=fe3fd9c3:18109
+flushPassiveEffectsImpl @ chunk-RPCDYKBN.js?v=fe3fd9c3:19490
+flushPassiveEffects @ chunk-RPCDYKBN.js?v=fe3fd9c3:19447
+performSyncWorkOnRoot @ chunk-RPCDYKBN.js?v=fe3fd9c3:18868
+flushSyncCallbacks @ chunk-RPCDYKBN.js?v=fe3fd9c3:9119
+commitRootImpl @ chunk-RPCDYKBN.js?v=fe3fd9c3:19432
+commitRoot @ chunk-RPCDYKBN.js?v=fe3fd9c3:19277
+finishConcurrentRender @ chunk-RPCDYKBN.js?v=fe3fd9c3:18805
+performConcurrentWorkOnRoot @ chunk-RPCDYKBN.js?v=fe3fd9c3:18718
+workLoop @ chunk-RPCDYKBN.js?v=fe3fd9c3:197
+flushWork @ chunk-RPCDYKBN.js?v=fe3fd9c3:176
+performWorkUntilDeadline @ chunk-RPCDYKBN.js?v=fe3fd9c3:384

@@ -1,0 +1,418 @@
+
+> rest-express@1.0.0 dev
+✅ Social Media API routes registeredex.ts
+✅ Registering Unsplash API routes...
+✅ Unsplash API routes registered successfully
+❌ Error initializing travel moods: error: null value in column "preferences" of relation "travel_moods" violates not-null constraint
+    at file:///home/runner/workspace/node_modules/@neondatabase/serverless/index.mjs:1345:74
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initializeTravelMoods (/home/runner/workspace/server/simple-mood-service.ts:174:7)
+    at async registerRoutes (/home/runner/workspace/server/routes.ts:58:3)
+    at async <anonymous> (/home/runner/workspace/server/index.ts:40:18) {
+  length: 462,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (390, Adventure Seeker, For thrill-seekers who want action-packed experiences and outdoo..., 🏔️, #ef4444, {adventure,hiking,"extreme sports",outdoor,adrenaline,climbing}, null, {"exclude": ["art_gallery", "museum", "spa", "beauty_salon", "je...).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'travel_moods',
+  column: 'preferences',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2006',
+  routine: 'ExecConstraints'
+}
+🔄 Registering Official LiteAPI routes...
+✅ Official LiteAPI routes registered
+🔧 Registering LiteAPI Sandbox Test routes...
+✅ LiteAPI Sandbox Test routes registered
+✅ Cache management routes registered
+1:06:34 PM [express] serving on port 5000
+Browserslist: browsers data (caniuse-lite) is 9 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+1:06:47 PM [express] GET /api/auth/me 304 in 374ms :: {"user":{"id":"b6e79855-ffed-4cc5-b147-a308aa3…
+1:06:47 PM [express] GET /api/favorites 304 in 303ms :: [{"id":24,"userId":"b6e79855-ffed-4cc5-b147-…
+1:06:48 PM [express] GET /api/chats 304 in 506ms :: [{"id":209,"userId":"b6e79855-ffed-4cc5-b147-a30…
+1:06:48 PM [express] GET /api/auth/me 304 in 183ms :: {"user":{"id":"4ac94ba8-b0e4-459a-a74e-2645bb8…
+1:06:48 PM [express] GET /api/favorites 304 in 240ms :: []
+1:06:48 PM [express] GET /api/chats 304 in 234ms :: [{"id":214,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:06:52 PM [express] POST /api/chats 200 in 247ms :: {"id":215,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:06:52 PM [express] GET /api/chats 200 in 236ms :: [{"id":215,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:06:52 PM [express] GET /api/chats/215/mood 200 in 241ms
+1:06:52 PM [express] GET /api/chats/215/messages 200 in 482ms :: [{"id":116,"chatId":215,"role":"use…
+[Google Places] Fetching destination: Hamburg, Germany
+[API Tracking] google_places.search_text: 1 requests, ~$0.0000
+[Cache] Saved destination to cache: Hamburg, Germany
+[Routes] Found destination in message: Hamburg
+1:07:00 PM [express] POST /api/chats/215/messages 200 in 8374ms :: {"userMessage":{"id":116,"chatId"…
+[LoadData] Loading full data for: Hamburg
+1:07:00 PM [express] GET /api/chats 200 in 235ms :: [{"id":215,"userId":"4ac94ba8-b0e4-459a-a74e-264…
+1:07:01 PM [express] GET /api/chats/215/messages 200 in 292ms :: [{"id":116,"chatId":215,"role":"use…
+[LoadData] Using cached data: 15 hotels, 25 attractions
+1:07:01 PM [express] POST /api/destinations/load-data 200 in 355ms :: {"destination":{"id":19,"userI…
+[Cache] Database hit for attractions near 53.548828199999996,9.987170299999999: 79 results
+[Cache Hit] Found 79 cached attractions
+1:07:17 PM [express] GET /api/destinations/search-attractions 200 in 1115ms :: [{"id":"ChIJ6RN9BxWPs…
+[Google Places] Fetching destination: Miniatur Wunderland
+[API Tracking] google_places.search_text: 1 requests, ~$0.0000
+[Cache] Saved destination to cache: Miniatur Wunderland
+Error fetching TripAdvisor photos: AxiosError: Request failed with status code 429
+    at settle (file:///home/runner/workspace/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///home/runner/workspace/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+    at Axios.request (file:///home/runner/workspace/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getTripAdvisorPhotos (/home/runner/workspace/server/tripadvisor.ts:156:22)
+    at async <anonymous> (/home/runner/workspace/server/routes.ts:1316:26) {
+  code: 'ERR_BAD_REQUEST',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: { FormData: [Function [FormData]], Blob: [class Blob] },
+    validateStatus: [Function: validateStatus],
+    headers: Object [AxiosHeaders] {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': undefined,
+      'User-Agent': 'axios/1.9.0',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    params: { key: 'EBD1C274169A4C7C983B48DA5C306CE3', language: 'en' },
+    method: 'get',
+    url: 'https://api.content.tripadvisor.com/api/v1/location/1027790/photos',
+    allowAbsoluteUrls: true,
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: true,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: true,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.content.tripadvisor.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 9,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.content.tripadvisor.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _maxListeners: undefined,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      timeout: 5000,
+      parser: null,
+      _httpMessage: null,
+      autoSelectFamilyAttemptedAddresses: [Array],
+      [Symbol(alpncallback)]: null,
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: -1,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 5000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 52006,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 11742,
+        [Symbol(triggerId)]: 11740
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 1,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'GET /api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'User-Agent: axios/1.9.0\r\n' +
+      'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+      'Host: api.content.tripadvisor.com\r\n' +
+      'Connection: keep-alive\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype] {},
+      freeSockets: [Object: null prototype],
+      keepAliveMsecs: 1000,
+      keepAlive: true,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 2,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'GET',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en',
+    _ended: true,
+    res: IncomingMessage {
+      _events: [Object],
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      socket: null,
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 429,
+      statusMessage: '',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      _eventsCount: 4,
+      responseUrl: 'https://api.content.tripadvisor.com/api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en',
+      redirects: [],
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 16,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: true,
+    host: 'api.content.tripadvisor.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _events: [Object],
+      _writableState: [WritableState],
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _eventsCount: 3,
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.content.tripadvisor.com/api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en',
+      [Symbol(shapeMode)]: true,
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(shapeMode)]: false,
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'user-agent': [Array],
+      'accept-encoding': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kHighWaterMark)]: 16384,
+    [Symbol(kRejectNonStandardBodyWrites)]: false,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 429,
+    statusText: '',
+    headers: Object [AxiosHeaders] {
+      date: 'Thu, 17 Jul 2025 13:07:22 GMT',
+      'content-type': 'application/json',
+      'content-length': '31',
+      connection: 'keep-alive',
+      'x-amzn-requestid': 'fddac4d2-b948-417d-82c3-838abff791fe',
+      'x-amzn-errortype': 'TooManyRequestsException',
+      'x-amz-apigw-id': 'N2tNxGagIAMER5w=',
+      'x-amzn-trace-id': 'Root=1-6878f58a-1d51a17620395c4c06841715'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Array],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      env: [Object],
+      validateStatus: [Function: validateStatus],
+      headers: [Object [AxiosHeaders]],
+      params: [Object],
+      method: 'get',
+      url: 'https://api.content.tripadvisor.com/api/v1/location/1027790/photos',
+      allowAbsoluteUrls: true,
+      data: undefined
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: true,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: true,
+      socket: [TLSSocket],
+      _header: 'GET /api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'User-Agent: axios/1.9.0\r\n' +
+        'Accept-Encoding: gzip, compress, deflate, br\r\n' +
+        'Host: api.content.tripadvisor.com\r\n' +
+        'Connection: keep-alive\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/api/v1/location/1027790/photos?key=EBD1C274169A4C7C983B48DA5C306CE3&language=en',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: true,
+      host: 'api.content.tripadvisor.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kHighWaterMark)]: 16384,
+      [Symbol(kRejectNonStandardBodyWrites)]: false,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { message: 'Too Many Requests' }
+  },
+  status: 429
+}
+1:07:23 PM [express] GET /api/locations/Miniatur%20Wunderland/details 200 in 819ms :: {"name":"Minia…

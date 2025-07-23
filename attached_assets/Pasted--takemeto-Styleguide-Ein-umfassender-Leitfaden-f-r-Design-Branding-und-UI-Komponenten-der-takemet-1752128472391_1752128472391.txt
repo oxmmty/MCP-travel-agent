@@ -1,0 +1,247 @@
+# takemeto Styleguide
+
+Ein umfassender Leitfaden für Design, Branding und UI-Komponenten der takemeto Plattform.
+
+## Markenidentität
+
+### Logo
+- **Primäres Logo**: Freigestelltes PNG mit Gradient-Schriftart
+- **Verwendung**: Navigation (h-10), Footer (h-10)
+- **Alt-Text**: "takemeto"
+- **Datei**: `bbdefd7d-6de9-429e-a2eb-a0d86d64cbb0_1752127901407.png`
+
+### Farbpalette
+
+#### Primäre Farben
+```css
+--coral-primary: hsl(8, 85%, 62%)     /* #E85A4F - Coral */
+--purple-mid: hsl(288, 65%, 55%)      /* #A855A3 - Purple */
+--blue-end: hsl(213, 65%, 58%)        /* #3B82F6 - Blue */
+```
+
+#### Gradient-Definitionen
+```css
+/* Haupt-Gradient (Coral → Purple → Blue) */
+--primary-gradient-start: hsl(8, 85%, 62%)
+--primary-gradient-end: hsl(213, 65%, 58%)
+
+/* Akzent-Gradient (Coral → Purple) */
+--accent-gradient-start: hsl(8, 85%, 62%)
+--accent-gradient-end: hsl(288, 65%, 55%)
+```
+
+#### Systemfarben
+```css
+--background: hsl(0, 0%, 100%)        /* Weiß */
+--foreground: hsl(222, 84%, 4.9%)     /* Dunkelblau */
+--muted: hsl(210, 40%, 98%)           /* Hellgrau */
+--muted-foreground: hsl(215, 13.8%, 34.1%) /* Mittelgrau */
+--border: hsl(214, 32%, 91.2%)        /* Rahmengrau */
+--primary: hsl(8, 85%, 62%)           /* Coral (für UI-Komponenten) */
+--ring: hsl(8, 85%, 62%)              /* Focus-Ring */
+```
+
+## Typografie
+
+### Schriftarten
+
+#### Haupt-Schriftart
+```css
+font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+```
+- **Verwendung**: Fließtext, UI-Komponenten, Navigation
+- **Gewichte**: 400 (normal), 500 (medium), 600 (semibold), 700 (bold)
+
+#### Gradient-Schriftart
+```css
+font-family: 'Noto Serif', Georgia, serif;
+```
+- **Verwendung**: Markennamen, Logo-Text, besondere Hervorhebungen
+- **Gewichte**: 400 (normal), 500 (medium), 600 (semibold), 700 (bold)
+- **Import**: `@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&display=swap');`
+
+### Text-Hierarchie
+
+#### Überschriften
+```css
+/* H1 - Hero */
+font-size: 2xl sm:3xl md:4xl lg:5xl xl:6xl
+font-weight: light (300) bis medium (500)
+line-height: tight
+
+/* H2 - Sektion */
+font-size: 3xl md:4xl
+font-weight: medium (500)
+
+/* H3 - Untersektion */
+font-size: 2xl
+font-weight: semibold (600)
+
+/* H4 - Komponenten */
+font-size: xl
+font-weight: medium (500)
+```
+
+#### Fließtext
+```css
+/* Haupt-Paragraph */
+font-size: base md:lg lg:xl
+font-weight: normal (400)
+line-height: relaxed
+
+/* Klein-Text */
+font-size: sm
+color: muted-foreground
+```
+
+## UI-Komponenten
+
+### Buttons
+
+#### Primär-Button
+```css
+className="bg-gradient-primary hover:opacity-90 text-white px-6 py-3 md:px-8 md:py-4 text-base md:text-lg font-medium hover:shadow-lg transform hover:-translate-y-1 transition-all duration-300"
+```
+
+#### Sekundär-Button
+```css
+className="border border-border bg-background hover:bg-muted text-foreground"
+```
+
+### Gradient-Klassen
+
+#### Text-Gradient
+```css
+.text-gradient {
+  background: linear-gradient(90deg, var(--coral-primary), var(--purple-mid), var(--blue-end));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: 'Noto Serif', Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+```
+
+#### Hintergrund-Gradienten
+```css
+.bg-gradient-primary {
+  background: linear-gradient(135deg, var(--primary-gradient-start), var(--primary-gradient-end));
+}
+
+.bg-gradient-accent {
+  background: linear-gradient(135deg, var(--accent-gradient-start), var(--accent-gradient-end));
+}
+```
+
+### Spezialeffekte
+
+#### Glas-Effekt
+```css
+.glass-effect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+```
+
+## Animationen
+
+### Fade-In Animation
+```css
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+```
+
+### Slide-Up Animation
+```css
+.animate-slide-up {
+  animation: slideUp 0.8s ease-out;
+}
+```
+
+### Hover-Effekte
+- **Transform**: `hover:-translate-y-1` (leichtes Anheben)
+- **Schatten**: `hover:shadow-lg`
+- **Transition**: `transition-all duration-300`
+
+## Layout & Spacing
+
+### Container
+```css
+max-w-7xl mx-auto px-4 sm:px-6 lg:px-8
+```
+
+### Abstände
+- **Sektionen**: `py-20` (vertikal), `px-4 sm:px-6 lg:px-8` (horizontal)
+- **Komponenten**: `mb-8 md:mb-12` (zwischen Hauptelementen)
+- **Text**: `mb-4` bis `mb-6` (zwischen Textblöcken)
+
+### Grid-System
+```css
+/* 3-Spalten Features */
+grid md:grid-cols-3 gap-8
+
+/* 5-Spalten How-It-Works */
+grid md:grid-cols-2 lg:grid-cols-5 gap-8 lg:gap-6
+
+/* Footer */
+grid md:grid-cols-4 gap-8
+```
+
+## Navigation
+
+### Header
+- **Position**: `fixed top-0 w-full z-50`
+- **Hintergrund**: `bg-background/80 backdrop-blur-md`
+- **Border**: `border-b border-border`
+- **Höhe**: `h-16`
+
+### Logo-Spezifikationen
+- **Größe**: `h-10 w-auto`
+- **Alt-Text**: "takemeto"
+- **Position**: Links in der Navigation
+
+## Dark Mode
+
+### Farbvariablen (Dark Theme)
+```css
+.dark {
+  --background: hsl(222, 84%, 4.9%);
+  --foreground: hsl(210, 40%, 98%);
+  --muted: hsl(217, 32%, 17.5%);
+  --card: hsl(222, 84%, 4.9%);
+  --border: hsl(217, 32%, 17.5%);
+  --primary: hsl(8, 85%, 62%); /* Bleibt gleich */
+}
+```
+
+## Verwendungsrichtlinien
+
+### Logo-Verwendung
+1. **Navigation**: Immer h-10, links positioniert
+2. **Footer**: h-10, mit mb-4 Abstand
+3. **Niemals**: Logo verzerren oder Proportionen ändern
+
+### Gradient-Verwendung
+1. **Markennamen**: Immer mit `.text-gradient` Klasse
+2. **CTAs**: Primär-Buttons mit `bg-gradient-primary`
+3. **Akzente**: Icons und Highlights mit Gradient-Hintergründen
+
+### Typografie-Regeln
+1. **Noto Serif**: Nur für Markennamen und besondere Hervorhebungen
+2. **Inter**: Für alle anderen Texte
+3. **Kontrast**: Immer ausreichend für Barrierefreiheit
+
+### Responsive Design
+- **Mobile First**: Alle Designs beginnen bei kleinsten Bildschirmen
+- **Breakpoints**: sm (640px), md (768px), lg (1024px), xl (1280px)
+- **Logo**: Bleibt immer h-10, passt sich automatisch an
+
+## Changelog
+
+- **Juli 10, 2025**: Erste Version des Styleguides
+- **Juli 10, 2025**: Integration von Noto Serif für Gradient-Texte
+- **Juli 10, 2025**: Freigestelltes PNG Logo implementiert
+- **Juli 10, 2025**: Coral-Purple-Blue Farbschema etabliert

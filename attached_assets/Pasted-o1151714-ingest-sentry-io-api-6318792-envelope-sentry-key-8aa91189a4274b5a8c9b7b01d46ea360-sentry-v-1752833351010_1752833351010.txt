@@ -1,0 +1,443 @@
+o1151714.ingest.sentry.io/api/6318792/envelope/?sentry_key=8aa91189a4274b5a8c9b7b01d46ea360&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.112.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+ 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+ [LaunchDarkly] LaunchDarkly client initialized
+/~:1 Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <div.cm-content cm-lineWrapping>
+Ancestor with aria-hidden: <div. useView_view__C2mnv css-17qdd0f Surface_surfaceRoot__TeA2u> 
+analytics.tiktok.com/i18n/pixel/events.js?sdkid=D004GE3C77U8PIVDSDJG&lib=ttq:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+www.google-analytics.com/analytics.js:1  Failed to load resource: net::ERR_UNSAFE_REDIRECT
+www.googletagmanager.com/gtag/js?id=AW-11411994397:1  Failed to load resource: net::ERR_UNSAFE_REDIRECT
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc…254be28c012eed.js:1 Uncaught (in promise) 
+/~:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+sp.replit.com/v1/i:1  Failed to load resource: the server responded with a status of 400 ()
+sp.replit.com/v1/i:1  Failed to load resource: the server responded with a status of 400 ()
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc…254be28c012eed.js:1 Uncaught (in promise) 
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc…254be28c012eed.js:1 Uncaught (in promise) 
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o1151714.ingest.sentry.io/api/6318792/envelope/?sentry_key=8aa91189a4274b5a8c9b7b01d46ea360&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.112.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o1151714.ingest.sentry.io/api/6318792/envelope/?sentry_key=8aa91189a4274b5a8c9b7b01d46ea360&sentry_version=7&sentry_client=sentry.javascript.browser%2F7.112.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+sp.replit.com/v1/i:1  Failed to load resource: the server responded with a status of 400 ()
+attached_assets/image_1752760219758.png:1  Failed to load resource: the server responded with a status of 404 ()
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+r.stripe.com/b:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+shared-89f46740c4fdc…254be28c012eed.js:1 Uncaught (in promise) 
+attached_assets/image_1752583748294.png:1  Failed to load resource: the server responded with a status of 404 ()
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+ Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'battery'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'layout-animations'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'navigation-override'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'oversized-images'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'publickey-credentials'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'speaker-selection'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'unoptimized-images'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'unsized-media'.
+_ @ framework-49a98723da8280d6.js:1
+ Unrecognized feature: 'pointer-lock'.
+_ @ framework-49a98723da8280d6.js:1
+ Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-49a98723da8280d6.js:1
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-49a98723da8280d6.js:1
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.launchdarkly.com/events/bulk/62b35a865152ab14c5942820:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+/public/js/beacon.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+ "featureNamespace place-A of featureset place-labels's selector is not associated to the same source, skip this selector
+Mt.forEach.n.<computed> @ eruda.js:2
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+eruda.js:2  Uncaught (in promise) 
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4359/2841.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4358/2844.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4360/2841.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4360/2844.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4358/2841.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4359/2844.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4358/2842.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4360/2842.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4359/2842.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4360/2843.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4358/2843.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4359/2843.vector.pbf?sku=101PikmWRThf7&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+ Mapbox map loaded successfully
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+eruda.js:2  Uncaught (in promise) 
+eruda.js:2  Uncaught (in promise) 
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+ [ChatInterface] Loading destination data for: Cochem
+ [ChatInterface] Loading destination data for: Cochem
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+ 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+ 🔍 Found bold matches: Array(5)
+ 🔍 Processing bold text: Cochem
+ 🔍 No match found for: Cochem
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 No match found for: Reichsburg Castle
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 No match found for: Reichsburg Castle
+ 🔍 Processing bold text: Moselle River Cruises
+ 🔍 No match found for: Moselle River Cruises
+ 🔍 Processing bold text: Cochem Old Town
+ 🔍 No match found for: Cochem Old Town
+ 🔍 Final extracted items: Array(0)
+ 🔍 No items to extract or no callback available
+ [ChatInterface] Loaded destination data: Object
+ 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+ 🔍 Found bold matches: Array(5)
+ 🔍 Processing bold text: Cochem
+ 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 Found destination match: Pyrmont Castle hotel
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 Found destination match: Pyrmont Castle hotel
+ 🔍 Processing bold text: Moselle River Cruises
+ 🔍 Found destination match: Mosel Islands GmbH & Co. KG hotel
+ 🔍 Processing bold text: Cochem Old Town
+ 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+ 🔍 Final extracted items: Array(5)
+ 🔍 Calling onChatItemsExtracted with: Array(5)
+ 🔍 SplitScreenLayout: Received chat items: Array(5)
+ 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+ 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Pyrmont Castle with coordinates: Object
+ 🔍 Found hotel in cache: Pyrmont Castle
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Pyrmont Castle with coordinates: Object
+ 🔍 Found hotel in cache: Pyrmont Castle
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Mosel Islands GmbH & Co. KG with coordinates: Object
+ 🔍 Found hotel in cache: Mosel Islands GmbH & Co. KG
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+ 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+ 🔍 Created chat marker with full data: Object
+ 🔍 Current chat markers: 0
+ 📍 Auto-adding chat items to map: Array(5)
+ 📍 Total markers after addition: 5
+ Warning: Cannot update a component (`SplitScreenLayout`) while rendering a different component (`MessageContent`). To locate the bad setState() call inside `MessageContent`, follow the stack trace as described in https://reactjs.org/link/setstate-in-render
+    at MessageContent (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/MessageContent.tsx:170:42)
+    at div
+    at div
+    at div
+    at div
+    at div
+    at MotionComponent (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=fe3fd9c3:6536:40)
+    at div
+    at div
+    at ChatInterface (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/ChatInterface.tsx:28:41)
+    at div
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=fe3fd9c3:42:13
+    at Presence (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-DI3MHBAI.js?v=fe3fd9c3:24:11)
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=fe3fd9c3:177:13
+    at _c5 (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/ui/tabs.tsx:72:12)
+    at div
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=fe3fd9c3:42:13
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=fe3fd9c3:38:15)
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tabs.js?v=fe3fd9c3:55:7
+    at div
+    at div
+    at MainTabs (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/MainTabs.tsx:29:3)
+    at div
+    at div
+    at SplitScreenLayout (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/SplitScreenLayout.tsx:28:3)
+    at div
+    at div
+    at div
+    at Home (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/pages/Home.tsx:34:23)
+    at ProtectedRoute (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/protected-route.tsx:22:34)
+    at Route (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=fe3fd9c3:323:16)
+    at Switch (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=fe3fd9c3:379:17)
+    at Router
+    at FavoritesProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/hooks/useFavorites.tsx:24:37)
+    at AuthProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/hooks/useAuth.tsx:116:32)
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=fe3fd9c3:38:15)
+    at TooltipProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=fe3fd9c3:65:5)
+    at I18nextProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-i18next.js?v=fe3fd9c3:781:3)
+    at QueryClientProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=fe3fd9c3:2805:3)
+    at App
+Mt.forEach.n.<computed> @ eruda.js:2
+ 🗺️ MAP UPDATE: Updating markers. New count: 0
+ Markers updated. Total markers: 0 onMarkerClick: true
+ 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+ 🔍 Found bold matches: Array(5)
+ 🔍 Processing bold text: Cochem
+ 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 Found destination match: Pyrmont Castle hotel
+ 🔍 Processing bold text: Reichsburg Castle
+ 🔍 Found destination match: Pyrmont Castle hotel
+ 🔍 Processing bold text: Moselle River Cruises
+ 🔍 Found destination match: Mosel Islands GmbH & Co. KG hotel
+ 🔍 Processing bold text: Cochem Old Town
+ 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+ 🔍 Final extracted items: Array(5)
+ 🔍 Calling onChatItemsExtracted with: Array(5)
+ 🔍 SplitScreenLayout: Received chat items: Array(5)
+ 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+ 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Pyrmont Castle with coordinates: Object
+ 🔍 Found hotel in cache: Pyrmont Castle
+ 🔍 Created chat marker with full data: Object
+ 🔍 Processing item: Pyrmont Castle with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Pyrmont Castle
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Mosel Islands GmbH & Co. KG with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Mosel Islands GmbH & Co. KG
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🗺️ MAP UPDATE: Updating markers. New count: 5
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 Markers updated. Total markers: 5 onMarkerClick: true
+Console.js:61 🔍 Current chat markers: 5
+Console.js:61 📍 No new markers to add (duplicates or empty)
+Console.js:61 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+Console.js:61 🔍 Found bold matches: Array(5)
+Console.js:61 🔍 Processing bold text: Cochem
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Moselle River Cruises
+Console.js:61 🔍 Found destination match: Mosel Islands GmbH & Co. KG hotel
+Console.js:61 🔍 Processing bold text: Cochem Old Town
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Final extracted items: Array(5)
+Console.js:61 🔍 Calling onChatItemsExtracted with: Array(5)
+Console.js:61 🔍 SplitScreenLayout: Received chat items: Array(5)
+Console.js:61 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Pyrmont Castle with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Pyrmont Castle
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Pyrmont Castle with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Pyrmont Castle
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Mosel Islands GmbH & Co. KG with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Mosel Islands GmbH & Co. KG
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Processing item: Roompot Ferienresort Cochem with coordinates: Object
+Console.js:61 🔍 Found hotel in cache: Roompot Ferienresort Cochem
+Console.js:61 🔍 Created chat marker with full data: Object
+Console.js:61 🔍 Current chat markers: 5
+Console.js:61 📍 No new markers to add (duplicates or empty)
+Console.js:61 🗺️ MAP UPDATE: Updating markers. New count: 5
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 ⚪ No Google Places icon for hotel, using emoji: 🏨
+Console.js:61 Markers updated. Total markers: 5 onMarkerClick: true
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17367:18)
+    at D.queueRequest (mapbox-gl.js?v=fe3fd9c3:17304:39)
+    at D.postStyleLoadEvent (mapbox-gl.js?v=fe3fd9c3:17362:57)
+    at Map._postStyleLoadEvent (mapbox-gl.js?v=fe3fd9c3:30600:36)
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17325:23)
+    at D.queueRequest (mapbox-gl.js?v=fe3fd9c3:17304:39)
+    at D.postTurnstileEvent (mapbox-gl.js?v=fe3fd9c3:17312:116)
+    at mapbox-gl.js?v=fe3fd9c3:18580:56
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17325:23)
+    at mapbox-gl.js?v=fe3fd9c3:17300:78
+    at mapbox-gl.js?v=fe3fd9c3:644:47
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17325:23)
+    at mapbox-gl.js?v=fe3fd9c3:17300:78
+    at mapbox-gl.js?v=fe3fd9c3:644:47
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17325:23)
+    at mapbox-gl.js?v=fe3fd9c3:17300:78
+    at mapbox-gl.js?v=fe3fd9c3:644:47
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17325:23)
+    at mapbox-gl.js?v=fe3fd9c3:17300:78
+    at mapbox-gl.js?v=fe3fd9c3:644:47
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4258/2773.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4259/2774.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4258/2774.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4259/2772.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4258/2771.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4258/2772.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4259/2771.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+api.mapbox.com/v4/mapbox.mapbox-landmark-pois-v1/13/4259/2773.vector.pbf?sku=101XXYW5BpSRZ&access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: the server responded with a status of 404 ()
+Console.js:61 Mapbox map loaded successfully
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+events.mapbox.com/events/v2?access_token=pk.eyJ1IjoibWFyY3VzYnVyayIsImEiOiJjbWNuN3B1Y3cwM3gyMm1zZmYwaGJtem8wIn0.bWosFDgg8qq-pJi1bOSXOw:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17421:18)
+    at D.queueRequest (mapbox-gl.js?v=fe3fd9c3:17304:39)
+    at D.postPerformanceEvent (mapbox-gl.js?v=fe3fd9c3:17375:64)
+    at Map._render (mapbox-gl.js?v=fe3fd9c3:30568:142)
+Network.js:219  Uncaught (in promise) TypeError: Failed to fetch
+    at window.fetch (Network.js:219:37)
+    at l2 (mapbox-gl.js?v=fe3fd9c3:637:17)
+    at mapbox-gl.js?v=fe3fd9c3:694:27
+    at Fe (mapbox-gl.js?v=fe3fd9c3:697:14)
+    at t.p (mapbox-gl.js?v=fe3fd9c3:15682:18)
+    at D.postEvent (mapbox-gl.js?v=fe3fd9c3:17299:37)
+    at D.processRequests (mapbox-gl.js?v=fe3fd9c3:17339:126)
+    at D.queueRequest (mapbox-gl.js?v=fe3fd9c3:17304:39)
+    at D.postMapLoadEvent (mapbox-gl.js?v=fe3fd9c3:17334:101)
+    at Map._authenticate (mapbox-gl.js?v=fe3fd9c3:30596:17)
+Console.js:61 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+Console.js:61 🔍 Found bold matches: (5) ['**Cochem**', '**Reichsburg Castle**', '**Reichsburg Castle**', '**Moselle River Cruises**', '**Cochem Old Town**']
+Console.js:61 🔍 Processing bold text: Cochem
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Moselle River Cruises
+Console.js:61 🔍 Found destination match: Mosel Islands GmbH & Co. KG hotel
+Console.js:61 🔍 Processing bold text: Cochem Old Town
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Final extracted items: (5) [{…}, {…}, {…}, {…}, {…}]
+Console.js:61 🔍 No items to extract or no callback available
+Console.js:61 🔍 Extracting chat items from text: **Cochem** is a charming town nestled along the Moselle River in Germany, known for its stunning **R...
+Console.js:61 🔍 Found bold matches: (5) ['**Cochem**', '**Reichsburg Castle**', '**Reichsburg Castle**', '**Moselle River Cruises**', '**Cochem Old Town**']
+Console.js:61 🔍 Processing bold text: Cochem
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Reichsburg Castle
+Console.js:61 🔍 Found destination match: Pyrmont Castle hotel
+Console.js:61 🔍 Processing bold text: Moselle River Cruises
+Console.js:61 🔍 Found destination match: Mosel Islands GmbH & Co. KG hotel
+Console.js:61 🔍 Processing bold text: Cochem Old Town
+Console.js:61 🔍 Found destination match: Roompot Ferienresort Cochem hotel
+Console.js:61 🔍 Final extracted items: (5) [{…}, {…}, {…}, {…}, {…}]
+Console.js:61 🔍 No items to extract or no callback available

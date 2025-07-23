@@ -1,0 +1,32 @@
+chunk-RPCDYKBN.js?v=5a12616e:521 Warning: Function components cannot be given refs. Attempts to access this ref will fail. Did you mean to use React.forwardRef()?
+
+Check the render method of `Primitive.button.SlotClone`.
+    at DropdownMenu (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-dropdown-menu.js?v=5a12616e:911:5)
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2K77HOHX.js?v=5a12616e:79:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2K77HOHX.js?v=5a12616e:56:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=5a12616e:42:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2K77HOHX.js?v=5a12616e:79:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2K77HOHX.js?v=5a12616e:56:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-Q6YJROYD.js?v=5a12616e:42:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T2HNFYQR.js?v=5a12616e:1931:13
+    at https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5a12616e:200:13
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=5a12616e:38:15)
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=5a12616e:38:15)
+    at Popper (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T2HNFYQR.js?v=5a12616e:1923:11)
+    at Tooltip (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5a12616e:109:5)
+    at div
+    at div
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=5a12616e:38:15)
+    at TooltipProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5a12616e:65:5)
+    at LeftSidebar (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/components/LeftSidebar.tsx:31:39)
+    at div
+    at div
+    at Home (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/src/pages/Home.tsx:34:23)
+    at Route (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5a12616e:323:16)
+    at Switch (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5a12616e:379:17)
+    at Router
+    at Provider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-OXZDJRWN.js?v=5a12616e:38:15)
+    at TooltipProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5a12616e:65:5)
+    at I18nextProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-i18next.js?v=5a12616e:781:3)
+    at QueryClientProvider (https://b9c5d74b-3653-4c7d-a8f9-fce5b100f74b-00-tkvtmzaraa5j.spock.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5a12616e:2805:3)
+    at App

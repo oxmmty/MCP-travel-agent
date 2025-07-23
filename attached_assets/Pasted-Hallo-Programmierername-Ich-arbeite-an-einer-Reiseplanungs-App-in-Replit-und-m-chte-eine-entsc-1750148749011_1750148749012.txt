@@ -1,0 +1,33 @@
+Hallo [Programmierername],
+
+Ich arbeite an einer Reiseplanungs-App in Replit und möchte eine entscheidende Komponente integrieren, die die Zuverlässigkeit und Präzision unserer Planungsfunktionen erheblich verbessern wird: die Implementierung eines "Solvers".
+
+**Was ist ein Solver in diesem Kontext?**
+Ein Solver, insbesondere ein **Satisfiability Modulo Theories (SMT)-Solver**, ist ein **algorithmusbasiertes mathematisches Werkzeug**. Seine Hauptfunktion besteht darin, **rigoros zu überprüfen**, ob bestimmte Kriterien erfüllt werden können, und Wege aufzuzeigen, wie dies geschehen kann. Im Gegensatz zu Large Language Models (LLMs), die Antworten basierend auf Token-Wahrscheinlichkeiten aus ihren Trainingsdaten generieren, führt ein Solver **strenge logische oder mathematische Überlegungen** durch. Ein SMT-Solver ist **"sound and complete"**, was bedeutet, dass er garantiert eine Lösung findet, wenn eine existiert, und dass jede von ihm gefundene Lösung korrekt ist und alle definierten Einschränkungen erfüllt.
+
+**Warum brauchen wir einen Solver? (Vorteile für unsere App)**
+LLMs allein haben Schwierigkeiten, korrekte Pläne für komplexe Probleme mit vielen Einschränkungen zu erstellen. Beispielsweise liegt die Erfolgsquote selbst des besten LLMs bei einem Reiseplanung-Benchmark bei nur 10 % oder weniger. Die Integration eines Solvers wird dies dramatisch verbessern und bietet folgende Vorteile:
+
+*   **Überragende Erfolgsquote:** Das Framework, das einen Solver nutzt, erreichte eine Erfolgsquote von **93,9 %** bei der Reiseplanung. Dies ist eine signifikante Verbesserung gegenüber LLMs allein.
+*   **Rigorose Problemlösung und Verifikation:** Der Solver formalisiert und löst komplexe Multi-Constraint-Planungsprobleme als **Constraint-Satisfaction-Probleme (CSP)**. Wenn die Einschränkungen erfüllbar sind, liefert der Solver einen **formal verifizierten Plan**. Dies gewährleistet, dass die generierten Reisepläne logisch korrekt sind und alle vom Benutzer gestellten Bedingungen erfüllen.
+*   **Intelligentes Feedback bei unlösbaren Anfragen:** Ein entscheidender Vorteil ist, dass der Solver bei Nichterfüllbarkeit der Constraints **genaue "unsatisfiable reasons"** (Gründe für die Nichterfüllbarkeit) ausgibt. Diese spezifischen Gründe ermöglichen es unserem LLM, die Situation zu analysieren und dem Benutzer gezielte Vorschläge zur Änderung der Anfrage zu unterbreiten, bis ein gültiger Plan gefunden wird oder die maximale Anzahl von Iterationen erreicht ist. Im Durchschnitt kann unser Framework 81,6 % bis 91,7 % der unlösbaren Probleme in lösbare umwandeln.
+*   **Zero-Shot Generalisierbarkeit:** Das Framework kann sich auf unbekannte Einschränkungen und sogar auf grundlegend unterschiedliche kombinatorische Optimierungsaufgaben (wie Block Picking, Task Allocation oder das Traveling Salesman Problem) verallgemeinern.
+
+**Was muss implementiert werden? (Technische Details und Anforderungen)**
+
+1.  **Solver-Typ:** Wir werden einen **Satisfiability Modulo Theories (SMT)-Solver** verwenden. Die Referenzquellen nutzen den **Z3 SMT solver**.
+2.  **Problemformalierung durch das LLM:** Das LLM wird als "Übersetzer" fungieren. Es wird die natürliche Sprachabfrage des Benutzers in **Python-Code** umwandeln, der das Problem für den Solver formalisiert. Dieser Code muss:
+    *   Alle relevanten Variablen für den Reiseplan definieren (z.B. Städte, Reisedaten, Transportmittel, Attraktionen, Restaurants, Unterkünfte, Budget).
+    *   Alle vom Benutzer gestellten Einschränkungen (Constraints) mathematisch oder logisch formulieren und dem Solver hinzufügen. Ein Beispiel dafür ist `s.add(departure_dates == 0)` für den Starttag oder `s.assert_and_track(spent <= variables['budget_limit'], 'budget enough')` für das Budget.
+    *   API-Aufrufe integrieren (z.B. `CitySearch`, `FlightSearch`, `AttractionSearch` etc.), um notwendige Daten zu sammeln, die der Solver für die Problemformulierung benötigt.
+3.  **Solver-Interaktion und Feedback-Mechanismus:**
+    *   Nachdem das LLM den Code generiert hat, wird dieser ausgeführt, um das Problem zu kodieren und den SMT-Solver aufzurufen.
+    *   **Im Erfolgsfall** gibt der Solver eine formal verifizierte Lösung aus, die dann vom LLM in ein für den Benutzer verständliches Reiseplanformat umgewandelt wird.
+    *   **Im Falle einer Nichterfüllbarkeit** muss der Solver in der Lage sein, die **`unsatisfiable reasons`** (die spezifischen Konflikte der Constraints) zurückzugeben. Die Quelle erwähnt die Nutzung der `get_unsat_core` Funktion des Z3-Solvers dafür. Diese detaillierten Gründe müssen an das LLM weitergegeben werden, damit es fundierte, interaktive Änderungsvorschläge für den Benutzer generieren kann.
+4.  **Leistungsaspekte und Einschränkungen:**
+    *   Die Laufzeit des SMT-Solvers kann mit zunehmender Problemkomplexität variieren. Obwohl für den TravelPlanner-Datensatz die durchschnittliche Laufzeit pro lösbarer Abfrage bei etwa 38,39 Sekunden lag, wurde ein maximales Zeitlimit von 30 Minuten festgelegt, das nur selten überschritten wurde (1,3 % der Abfragen). Für sehr große Datenbanken oder Abfragen mit wenigen möglichen Lösungen könnten Heuristiken zur Reduzierung der Rechenlast des Solvers erforderlich sein.
+    *   Es ist wichtig zu beachten, dass der Solver selbst nicht in der Lage ist, unsichere oder inkorrekte Informationen aus der zugrunde liegenden Datenbank zu erkennen. Das bedeutet, dass bei fehlerhaften Daten möglicherweise risikoreiche Pläne generiert werden könnten.
+
+Kurz gesagt, der Solver wird das Herzstück unserer App für die **rigorose Problemlösung und Verifikation** sein, während das LLM die **Benutzerinteraktion und die Übersetzung von natürlicher Sprache** übernimmt.
+
+Ich freue mich auf die Diskussion, wie wir dies am besten umsetzen können!

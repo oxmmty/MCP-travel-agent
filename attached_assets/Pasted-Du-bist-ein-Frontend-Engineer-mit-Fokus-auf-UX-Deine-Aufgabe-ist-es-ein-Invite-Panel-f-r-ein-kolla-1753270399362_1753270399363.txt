@@ -1,0 +1,58 @@
+Du bist ein Frontend-Engineer mit Fokus auf UX. Deine Aufgabe ist es, ein Invite-Panel für ein kollaboratives Reise-Planungstool zu entwerfen, ähnlich wie im UI von MindTrip.
+
+Implementiere die Komponente als reines Frontend (z. B. in React + Tailwind, ohne Backend), mit folgenden Anforderungen:
+
+🧱 UI-Elemente:
+
+Eingabefeld für mehrere E-Mail-Adressen (Trennung per Komma oder Enter, Darstellung als Tags)
+
+Invite-Button (aktiv bei gültigen E-Mails)
+
+Copy-Link-Button mit Tooltip „Link copied!“
+
+Umschalter für Zugriffsrechte: Invite only (default) oder Anyone with link
+
+Visuelle Vorschau des Trips (Titel, Dauer, Bild)
+
+Optional: Liste der bereits eingeladenen Personen mit Statusindikator
+
+🧭 Interaktionen:
+
+Eingabe-Handling: automatische Tag-Erstellung bei Komma oder Enter
+
+Button ist nur aktiv, wenn mindestens eine valide E-Mail vorhanden ist
+
+Nach Klick auf Invite: UI zeigt sofort Feedback (z. B. kurzer Toast)
+
+Access-Level-Switch ändert beschreibenden Text inline (z. B. „Anyone with link can view“)
+
+Copy-Link kopiert einen statischen Beispiel-Link (https://yourapp.com/invite/xyz)
+
+🎨 Zustände:
+
+idle: Button disabled
+
+valid: Button aktiv
+
+invalid email: Tag oder Input wird rot hervorgehoben
+
+sent: E-Mail-Feld leert sich, Toast: „Invites sent“
+
+🗣️ Sprachsteuerung (Prompt-basiert, optional integrierbar):
+Reagiere auf folgende Eingaben in natürlicher Sprache (z. B. über ein Command-Overlay oder Chat-Interface):
+
+„Lad meine Schwester ein: marie@example.com“
+
+„Teil das mit Alex und Ben“
+
+„Erstell mir einen Link zum Teilen“
+
+„Jeder mit dem Link darf mitplanen“
+
+„Mach den Trip privat“
+
+„Zeig mir, wen ich eingeladen habe“
+
+Diese Eingaben sollen direkt als UI-Aktion interpretiert und ausgeführt werden (z. B. Umschalten des Access Levels, Hinzufügen von E-Mails, Anzeigen des Invite-Status).
+
+Ziel ist eine saubere, responsive UI, mobile-first, mit angenehmer Interaktion, klarer Zustandsanzeige und minimaler Komplexität im Frontend. Nutze Tailwind für Layouts und Zustandshandling, setze sinnvolle ARIA-Labels und Accessibility-Standards um.
