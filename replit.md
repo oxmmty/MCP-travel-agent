@@ -1,4 +1,4 @@
-# Travel Planning Application
+<!-- # Travel Planning Application
 
 ## Overview
 
@@ -232,4 +232,4 @@ Comprehensive TikTok and Instagram content curation system integrated into the t
 
 ## User Preferences
 
-Preferred communication style: Simple, everyday language.
+Preferred communication style: Simple, everyday language. -->
