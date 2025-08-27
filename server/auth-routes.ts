@@ -6,9 +6,9 @@ import type { RegisterData, LoginData, GoogleUserInfo } from '@shared/schema';
 const router = express.Router();
 
 // Google OAuth client (only initialize if credentials are provided)
-// const googleClient = process.env.GOOGLE_CLIENT_ID 
-//   ? new OAuth2Client(process.env.GOOGLE_CLIENT_ID, process.env.GOOGLE_CLIENT_SECRET)
-//   : null;
+const googleClient = process.env.GOOGLE_CLIENT_ID 
+  ? new OAuth2Client(process.env.GOOGLE_CLIENT_ID, process.env.GOOGLE_CLIENT_SECRET)
+  : null;
 
 // Middleware to authenticate requests
 export const authenticateToken = async (req: express.Request, res: express.Response, next: express.NextFunction) => {
