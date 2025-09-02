@@ -15,13 +15,13 @@ import {
 } from "@shared/schema";
 
 // Cache TTL configurations based on data type (in hours)
-export const CACHE_TTL = {
-  hotels: 0, // No caching for hotels (LiteAPI real-time pricing)
-  restaurants: 720, // 30 days (development phase - minimize API calls)
-  attractions: 720, // 30 days (development phase - minimize API calls)
-  reviews: 720, // 30 days (development phase - minimize API calls)
-  photos: 720, // 30 days (development phase - minimize API calls)
-} as const;
+// export const CACHE_TTL = {
+//   hotels: 0, // No caching for hotels (LiteAPI real-time pricing)
+//   restaurants: 720, // 30 days (development phase - minimize API calls)
+//   attractions: 720, // 30 days (development phase - minimize API calls)
+//   reviews: 720, // 30 days (development phase - minimize API calls)
+//   photos: 720, // 30 days (development phase - minimize API calls)
+// } as const;
 
 // API cost estimates (in USD per 1000 requests) - Updated for Places API (New)
 export const API_COSTS = {
