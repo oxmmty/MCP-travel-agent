@@ -17,7 +17,7 @@ import type {
 
 export interface IAuthStorage {
   // User operations
-  // getUser(id: string): Promise<User | undefined>;
+  getUser(id: string): Promise<User | undefined>;
   getUserByEmail(email: string): Promise<User | undefined>;
   getUserByGoogleId(googleId: string): Promise<User | undefined>;
   createUser(user: InsertUser): Promise<User>;
