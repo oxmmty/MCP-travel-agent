@@ -3,6 +3,7 @@ import { Resend } from 'resend';
 
 const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 
+
 // Generate unique tokens for sharing and invitations
 export function generateAccessToken(): string {
   return crypto.randomBytes(32).toString('hex');
